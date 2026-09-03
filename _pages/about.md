@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hu Chang, Ph.D. candidate in the Department of Coastal Ocean Science, School of Geography and Ocean Science, Nanjing University.
+Hu Chang, Ph.D candidate in the Department of Coastal Ocean Science, School of Geography and Ocean Science, Nanjing University.
 
 Research Interests:
 ======
