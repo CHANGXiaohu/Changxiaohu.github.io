@@ -3,7 +3,7 @@ title: "Deglacial and Holocene evolution of north Pacific upper and intermediate
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Although many studies of KC dynamics have been carried out, thechange in KC influence during the Holocene is still debatable. Radiolarians are highly sensitive to changes inwater mass properties (e.g., temperature and nutrient content). In this study, we analyze the high sedimentationrate and complete sedimentary history of the OT and reconstruct the vertical structure of the OT water and itsevolutionary patterns by using characteristic radiolarian assemblage changes at shallow to deep‐water depths, inorder to clarify the dynamic changes in North Pacific upper and intermediate ocean circulations (KC, NPIW andPCW) since the last deglaciation on the basis of biogenic records from the OT.'
+#excerpt: '..'
 date: 2025-05-19
 venue: 'Paleoceanography and Paleoclimatology'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
@@ -11,6 +11,7 @@ paperurl: 'https://Changxiaohu.github.io/files/paper1.pdf'
 #bibtexurl: 'https://Changxiaohu.github.io/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+
 The interplay between the northward‐flowing surface oceanic currents and the southward‐flowing
 intermediate water masses regulated ocean stratification and mixing in the Northwest Pacific. Radiolaria, a
 biogenic proxy, was used to reconstruct changes in ocean stratification in the central Okinawa Trough (OT)

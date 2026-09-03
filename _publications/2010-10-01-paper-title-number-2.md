@@ -3,7 +3,7 @@ title: "Approaches, challenges and prospects for modeling macroalgal dynamics in
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-#excerpt: '.'
+#excerpt: '..'
 date: 2025-06-01
 venue: 'Marine pollution bulletin'
 #slidesurl: 'https://Changxiaohu.github.io/files/slides2.pdf'
