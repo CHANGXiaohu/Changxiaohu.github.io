@@ -3,7 +3,7 @@ title: "Spartina alterniflora in coastal wetlands: ecological impacts, managemen
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: '..'
+#excerpt: '..'
 date: 2026-07-15
 venue: 'Anthropocene Coasts'
 #slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
