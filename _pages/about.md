@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Chang Hu, Ph.D. candidate in the Department of Coastal Ocean Science, School of Geography and Ocean Science, Nanjing University.
+Hu Chang, Ph.D. candidate in the Department of Coastal Ocean Science, School of Geography and Ocean Science, Nanjing University.
 
 Research Interests:
 ======
@@ -20,8 +20,9 @@ Professional Appointments:
 ------
 - Committee Member, Youth Committee for Polar Scientific Expedition.
 - Member, Zizhou County Writers Association.
-- Peer Reviewer for several renowned journals, including PLoS ONE.
+- Peer Reviewer for several renowned journals, including Estuarine, Coastal and Shelf Science; PLOS ONE et al.
 
 For more info
 ------
+- Hobbies: Traveling, photography, reading, swimming, table tennis.
 Wait a few minutes.
