@@ -25,4 +25,4 @@ Professional Appointments:
 For more info
 ------
 - Hobbies: Traveling, photography, reading, swimming, table tennis.
-Wait a few minutes.
+- Wait a few minutes.
