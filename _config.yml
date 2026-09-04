@@ -88,11 +88,7 @@ publication_category:
   conferences:
     title: 'Intellectual Property'
 
-Progects_category:
-  books:
-    title: 'Talks and presentations'
-  manuscripts:
-    title: 'Research Progects'    
+ 
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
