@@ -12,12 +12,21 @@ main:
     url: /publications/
 
   - title: "Progects"
+    url: /cv/
+
+  - title: "Talks"
     url: /talks/    
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Honors and Awards"
-    url: /teaching/    
-    
+    url: /Honors and Awards/
+
   - title: "Professional Appointments"
+    url: /appointments/
+
+  - title: "Portfolio"
     url: /portfolio/
           
   - title: "CV"
