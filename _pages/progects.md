@@ -11,7 +11,7 @@ redirect_from:
 
 A. Sponsored & Global Climate Grants
 ======
-* Smart-Coastal Restoration Solution, Youth4Climate Call for Solutions 2026 (UNDP Global Youth Climate Fund), Theme: Ocean & Blue Economy | Awarded, Awarded Funding: USD 30,000, Individual Principal Applicant, 07/2026–Present
+* Smart-Coastal Restoration Solution, Youth4Climate Call for Solutions 2026 (UNDP Global Youth Climate Fund), Theme: Ocean & Blue Economy. Awarded, Awarded Funding: USD 30,000, Individual Principal Applicant, 07/2026–Present
   *	Develop UAV-AI high-precision monitoring system for invasive cordgrass restoration to boost coastal blue carbon sink and climate resilience.
   *	Construct cost-ecology trade-off decision tool for wetland managers; design capacity training and scalable national replication scheme.
 
